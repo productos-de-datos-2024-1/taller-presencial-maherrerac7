@@ -1,0 +1,77 @@
+2024-04-06 07:32:36,422:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:32:36,422:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:32:36,426:INFO: * Restarting with stat
+2024-04-06 07:32:38,083:WARNING: * Debugger is active!
+2024-04-06 07:32:38,088:INFO: * Debugger PIN: 113-280-813
+2024-04-06 07:33:10,878:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:33:10,878:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:33:10,880:INFO: * Restarting with stat
+2024-04-06 07:33:12,729:WARNING: * Debugger is active!
+2024-04-06 07:33:12,733:INFO: * Debugger PIN: 113-280-813
+2024-04-06 07:52:04,487:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 07:52:04,487:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 07:52:04,490:INFO: * Restarting with stat
+2024-04-06 07:52:06,003:WARNING: * Debugger is active!
+2024-04-06 07:52:06,006:INFO: * Debugger PIN: 113-280-813
+2024-04-06 07:56:00,151:INFO:127.0.0.1 - - [06/Apr/2024 07:56:00] "[31m[1mGET / HTTP/1.1[0m" 405 -
+2024-04-06 07:59:20,165:INFO:127.0.0.1 - - [06/Apr/2024 07:59:20] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:01:54,872:INFO:127.0.0.1 - - [06/Apr/2024 08:01:54] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:02:31,644:INFO:127.0.0.1 - - [06/Apr/2024 08:02:31] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:02:49,747:INFO:127.0.0.1 - - [06/Apr/2024 08:02:49] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:05:24,015:INFO:127.0.0.1 - - [06/Apr/2024 08:05:24] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:06:31,421:INFO:127.0.0.1 - - [06/Apr/2024 08:06:31] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:07:57,687:INFO:127.0.0.1 - - [06/Apr/2024 08:07:57] "[31m[1mPOST / HTTP/1.1[0m" 400 -
+2024-04-06 08:09:12,088:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:09:18,076:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:09:18,078:INFO:127.0.0.1 - - [06/Apr/2024 08:09:18] "POST / HTTP/1.1" 200 -
+2024-04-06 08:18:24,889:INFO: * Detected change in 'C:\\Users\\MairaH\\Documents\\GitHub\\taller-presencial-maherrerac7\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:18:25,212:INFO: * Restarting with stat
+2024-04-06 08:18:28,826:WARNING: * Debugger is active!
+2024-04-06 08:18:28,831:INFO: * Debugger PIN: 113-280-813
+2024-04-06 08:21:38,331:INFO: * Detected change in 'C:\\Users\\MairaH\\Documents\\GitHub\\taller-presencial-maherrerac7\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:21:38,529:INFO: * Restarting with stat
+2024-04-06 08:21:40,401:WARNING: * Debugger is active!
+2024-04-06 08:21:40,403:INFO: * Debugger PIN: 113-280-813
+2024-04-06 08:21:56,195:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:22:01,363:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:22:01,364:INFO:127.0.0.1 - - [06/Apr/2024 08:22:01] "POST / HTTP/1.1" 200 -
+2024-04-06 08:22:18,490:INFO: * Detected change in 'C:\\Users\\MairaH\\Documents\\GitHub\\taller-presencial-maherrerac7\\src\\6b_api_server\\client_example.py', reloading
+2024-04-06 08:22:18,798:INFO: * Restarting with stat
+2024-04-06 08:22:20,492:WARNING: * Debugger is active!
+2024-04-06 08:22:20,495:INFO: * Debugger PIN: 113-280-813
+2024-04-06 08:23:15,963:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 08:23:17,322:INFO:Prediction: [1605832.10562042]
+2024-04-06 08:23:17,323:INFO:127.0.0.1 - - [06/Apr/2024 08:23:17] "POST / HTTP/1.1" 200 -
+2024-04-06 09:08:33,445:INFO: * Detected change in 'C:\\Users\\MairaH\\Documents\\GitHub\\taller-presencial-maherrerac7\\src\\6b_api_server\\server.py', reloading
+2024-04-06 09:08:33,757:INFO: * Restarting with stat
+2024-04-06 09:08:35,524:WARNING: * Debugger is active!
+2024-04-06 09:08:35,528:INFO: * Debugger PIN: 113-280-813
+2024-04-06 09:08:36,687:INFO: * Detected change in 'C:\\Users\\MairaH\\Documents\\GitHub\\taller-presencial-maherrerac7\\src\\6b_api_server\\server.py', reloading
+2024-04-06 09:08:36,853:INFO: * Restarting with stat
+2024-04-06 09:08:38,502:WARNING: * Debugger is active!
+2024-04-06 09:08:38,507:INFO: * Debugger PIN: 113-280-813
+2024-04-06 09:08:40,704:INFO: * Detected change in 'C:\\Users\\MairaH\\Documents\\GitHub\\taller-presencial-maherrerac7\\src\\6b_api_server\\server.py', reloading
+2024-04-06 09:08:40,881:INFO: * Restarting with stat
+2024-04-06 09:27:03,681:INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5001
+2024-04-06 09:27:03,681:INFO:[33mPress CTRL+C to quit[0m
+2024-04-06 09:27:03,683:INFO: * Restarting with stat
+2024-04-06 09:27:05,474:WARNING: * Debugger is active!
+2024-04-06 09:27:05,479:INFO: * Debugger PIN: 113-280-813
+2024-04-06 09:27:20,733:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 09:27:22,209:INFO:Prediction: [1605832.10562042]
+2024-04-06 09:27:22,210:INFO:127.0.0.1 - - [06/Apr/2024 09:27:22] "POST / HTTP/1.1" 200 -
+2024-04-06 09:27:38,195:INFO:User values: {'bedrooms': [3], 'bathrooms': [2], 'sqft_living': [1800], 'sqft_lot': [2200], 'floors': [1], 'waterfront': [1], 'condition': [3]}
+2024-04-06 09:27:38,198:INFO:Prediction: [1605832.10562042]
+2024-04-06 09:27:38,198:INFO:127.0.0.1 - - [06/Apr/2024 09:27:38] "POST / HTTP/1.1" 200 -
+2024-04-06 09:29:16,079:INFO: * Detected change in 'C:\\Users\\MairaH\\Documents\\GitHub\\taller-presencial-maherrerac7\\src\\6b_api_server\\server.py', reloading
+2024-04-06 09:29:16,438:INFO: * Restarting with stat
+2024-04-06 09:29:18,231:WARNING: * Debugger is active!
+2024-04-06 09:29:18,233:INFO: * Debugger PIN: 113-280-813
+2024-04-06 09:31:26,394:INFO: * Detected change in 'C:\\Users\\MairaH\\Documents\\GitHub\\taller-presencial-maherrerac7\\src\\6b_api_server\\server.py', reloading
+2024-04-06 09:31:26,569:INFO: * Restarting with stat
+2024-04-06 09:31:28,368:WARNING: * Debugger is active!
+2024-04-06 09:31:28,370:INFO: * Debugger PIN: 113-280-813
